@@ -1,2 +1,2 @@
-# alunir_connect
-Alunir library to connect brokers
+# alunir-image
+alunir-image
